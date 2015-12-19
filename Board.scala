@@ -219,8 +219,6 @@ class Board extends MainFrame {
 	resizable = false;
 	visible = true;
 	pack();
-	println(this.toString);
-
 }//end Board class
 
 object Board {
